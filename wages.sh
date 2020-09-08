@@ -1,4 +1,4 @@
-##!/bin/bash -x
+#!/bin/bash -x
 fullday=16
 halfday=8
 full=1
