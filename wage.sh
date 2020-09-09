@@ -1,1 +1,2 @@
-echo "welocome to employee wage computation program on master branch"
+attendance=$(( RANDOM%3 ))
+echo $attendance
