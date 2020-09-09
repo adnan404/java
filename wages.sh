@@ -1,2 +1,0 @@
-attendance=$(( RANDOM%3 ))
-
